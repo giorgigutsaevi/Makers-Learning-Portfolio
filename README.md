@@ -3,7 +3,7 @@
 
 | Week        | Languages Used           | Projects  |
 | ------------- |:-------------:| :----:|
-| Week 1    | Ruby | Boris Bikes & Airport |
+| [Week 1](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week1.md)    | Ruby | Boris Bikes & Airport |
 | Week 2    | Ruby      |   |
 
 I will include examples of my work, challenges completed and the concepts I have learnt & developed whilst working towards the goals listed below each week.
