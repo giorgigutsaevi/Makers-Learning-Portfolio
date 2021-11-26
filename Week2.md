@@ -38,4 +38,30 @@ Completed **Oystercard** application that tracks the entry and exit station, che
   
 
 ## Daily Goals 
+#### Monday - Novemeber 22
 
+GOAL: Review another person's code and attend code review workshop
+PLAN: Complete code review with my pair partner, give and receive feedback on airport challenge
+
+GOAL: Start working on this week's challenge - Oystercard
+PLAN: Plan for today is start coding step-by-step. There is no rush, just making sure my partner and I, understand all the concepts mentioned. Before each step is completed we intent to discuss how to approach a problem, and afterwards discuss what we can do better. 
+
+#### Tuesday - November 23
+
+GOAL: Continue Oystercard challenge: breaking one class into two classes or extracting classes. 
+PLAN: Use OysterCard challenge as opportunity to refactor some Oystercard class methods into Journey class methods
+
+#### Wednesday - November 24
+
+GOAL: OO Principles: Understand what class delegation is & continue working on the Oystercard challenge in the afternoon
+PLAN: Read through the key materials on skills-workshop github repo and follow along. Perhaps do an exercise or two regarding this concept. 
+
+#### Thursday - November 25
+
+GOAL: OO Principles: Understand class polymorphism & continue work on the Oystercard challenge in the afternoon
+PLAN: Read through practicals on OOP and code along. 
+
+#### Friday - November 26
+
+GOAL: Understand mocking and test-double principle in TDD and finish the Oystercard challenge. 
+PLAN: Read external resources on mocking and test doubles and why they are used. 
