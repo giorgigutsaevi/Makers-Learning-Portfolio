@@ -32,6 +32,8 @@ Completed **Battle** web application, a pokemon-inspired battle game. Players ca
 	- Applying OOD to building web apps, especially the SRP and encapsulation
 	- TDD using RSpec & Capybara
 
+---
+
 ### Weekend Challenge - 
 
 
