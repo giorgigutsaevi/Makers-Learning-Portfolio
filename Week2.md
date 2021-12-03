@@ -22,14 +22,29 @@
 
 ### Pair Programming Project - Oystercard
 
-Completed **Oystercard** application that tracks the entry and exit station, checks balance, penalizes sneaky travellers, calculates fare depending on the zones traversed and logging journey history. This challenge demonstrates core TDD understanding, while building a project with OOD. I found mocking and testing doubles slightly overwhelming in the beginning, but through practice and help from peers/coaches, I managed to understand what they are for and most importantly WHY they are used! Repo [here](https://github.com/giorgigutsaevi/oystercard).
+Completed **Oystercard** application that: tracks the entry and exit stations & corresponding zones, checks the card balance, penalizes sneaky travellers, calculates fare depending on the zones traversed and logs the journey history. This challenge demonstrates core TDD understanding, while building a project with OOD in mind. I found mocking and testing doubles slightly overwhelming in the beginning, but through practice and help from peers/coaches, I managed to understand what they are for and most importantly WHY they are used! Repo [here](https://github.com/giorgigutsaevi/oystercard).
 
 - Technologies Used: Ruby, RSpec
 - Skills Learnt:
 	- Apply basic object-oriented principles like encapsulation and single-responsibility.
-	- Isolate classes and using mocking/test doubles
+	- Apply class delegation
+	- Isolate classes and use mocking/test doubles
 	- Extracting classes: Break one class into two classes that communicate and work together
 	- TDD
+
+
+### Weekend Project - Takeaway application
+
+Built **Takeaway** ordering application with TDD and Twilio API to deliver a confirmation text message after the food has been ordered and confirmed.
+
+- [My Takeaway app repo](https://github.com/giorgigutsaevi/takeaway-challenge)
+- Technologies Used: Ruby, RSpec, Twilio API
+- Skills Learnt:
+	- Apply OOP principles: delegation, encapsulation
+	- How APIs interact with our programs
+	- Isolate classes and use mocking/test doubles
+	- Incorporate Ruby gems
+	- The importance of TDD
 
 ### Auxiliary resources
 
@@ -63,5 +78,5 @@ PLAN: Read through practicals on OOP and code along.
 
 #### Friday - November 26
 
-GOAL: Understand mocking and test-double principle in TDD and finish the Oystercard challenge. \
+GOAL: Better understand what mocking and test-double principles are in TDD and finish the Oystercard challenge! \
 PLAN: Read external resources on mocking and test doubles and why they are used. 
