@@ -21,8 +21,9 @@
 ## Evidence
 
 ### Pair Programming Project - Oystercard
+#### [Oystercard Repo](https://github.com/giorgigutsaevi/oystercard).
 
-Completed **Oystercard** application that: tracks the entry and exit stations & corresponding zones, checks the card balance, penalizes sneaky travellers, calculates fare depending on the zones traversed and logs the journey history. This challenge demonstrates core TDD understanding, while building a project with OOD in mind. I found mocking and testing doubles slightly overwhelming in the beginning, but through practice and help from peers/coaches, I managed to understand what they are for and most importantly WHY they are used! Repo [here](https://github.com/giorgigutsaevi/oystercard).
+Completed **Oystercard** application that: tracks the entry and exit stations & corresponding zones, checks the card balance, penalizes sneaky travellers, calculates fare depending on the zones traversed and logs the journey history. This challenge demonstrates core TDD understanding, while building a project with OOD in mind. I found mocking and testing doubles slightly overwhelming in the beginning, but through practice and help from peers/coaches, I managed to understand what they are for and most importantly WHY they are used! 
 
 - Technologies Used: Ruby, RSpec
 - Skills Learnt:
@@ -34,10 +35,10 @@ Completed **Oystercard** application that: tracks the entry and exit stations & 
 
 
 ### Weekend Project - Takeaway application
+#### - [Takeaway Repo](https://github.com/giorgigutsaevi/takeaway-challenge)
 
 Built **Takeaway** ordering application with TDD and Twilio API to deliver a confirmation text message after the food has been ordered and confirmed.
 
-- [My Takeaway app repo](https://github.com/giorgigutsaevi/takeaway-challenge)
 - Technologies Used: Ruby, RSpec, Twilio API
 - Skills Learnt:
 	- Apply OOP principles: delegation, encapsulation
