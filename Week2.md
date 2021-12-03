@@ -33,6 +33,7 @@ Completed **Oystercard** application that: tracks the entry and exit stations & 
 	- Extracting classes: Break one class into two classes that communicate and work together
 	- TDD
 
+---
 
 ### Weekend Project - Takeaway application
 #### [Takeaway Repo](https://github.com/giorgigutsaevi/takeaway-challenge)
