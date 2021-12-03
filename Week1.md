@@ -23,8 +23,9 @@
 ## Evidence
 
 ### Pair Programming Project - Boris Bikes
+#### [Boris Bikes Repo]()
 
-Completed **Boris Bikes** application that can dock and release bikes. This challenge showcases a good understanding of how to approach TDD and building a project with ODD in mind. In the beginning, I found that, I struggled with translating User Stories into unit-tests. This initially, seemed to be a weak area of understanding for me. Repo [here]().
+Completed **Boris Bikes** application that can dock and release bikes. This challenge showcases a good understanding of how to approach TDD and building a project with ODD in mind. In the beginning, I found that, I struggled with translating User Stories into unit-tests. This initially, seemed to be a weak area of understanding for me. 
 
 - Technologies Used: Ruby, RSpec
 - Skills Learnt:
@@ -35,8 +36,9 @@ Completed **Boris Bikes** application that can dock and release bikes. This chal
   
 
 ### Weekend Project - Airport
+#### [Airport Repo](https://github.com/giorgigutsaevi/airport_challenge)
 
-Completed the **Airport Challenge** that can manage the takeoff and landing of planes in random weather conditions. This application also deals with OOD and showcases a good understanding of TDD. After working on this challenge, I definitely felt, I gained solid insight into translating User Stories into meaningful unit-tests. Had loads of fun building a mini-JFK airport. 😊 Repo [here](https://github.com/giorgigutsaevi/airport_challenge).
+Completed the **Airport Challenge** that can manage the takeoff and landing of planes in random weather conditions. This application also deals with OOD and showcases a good understanding of TDD. After working on this challenge, I definitely felt, I gained solid insight into translating User Stories into meaningful unit-tests. Had a blast building a mini-JFK airport! 😊 
 
 - Technologies Used: Ruby, RSpec
 - Skills Learnt:
