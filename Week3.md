@@ -85,6 +85,8 @@ Goal: Understand how Capybara works.\
 Goal: Work through the [debugging_2](https://github.com/makersacademy/skills-workshops/tree/main/how_the_web_works/debugging_2) exercise\
 Plan: Try to solve the challenge and evidence it on my learning-portfolio repo on github,
 
+---
+
 #### Thursday - December 2
 
 **Goal:** To understand how and to actually debug web applications.\
@@ -97,6 +99,7 @@ Plan: Try to solve the challenge and evidence it on my learning-portfolio repo o
 **Plan**: Continue working through the battle-app project the entire afternoon! *(currently on step #27 - skinny controllers)*\
 **Evidence:** Finished the battle project completely! Added some slight styling to the play.erb rendering. [Repo link](https://github.com/giorgigutsaevi/battle).
 
+---
 
 #### Friday - December 3
 
