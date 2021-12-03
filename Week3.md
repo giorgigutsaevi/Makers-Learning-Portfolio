@@ -11,7 +11,8 @@
 
 - Read and work through the exercises based around building web applications & the req/res cycle
 - Practice, practice & practice using Sinatra (understand what sessions, how routing works, how to redirect routes, etc.)
-- Understand the core concept of Automated Browsers and practice Capybara. 
+- Understand the core concept of Automated Browsers and practice Capybara
+- Understand what MVC architecture is, and how it applies to building web applications
 - Read relevant documentation/articles/knowldge pills as I go, and try to extract fundamental concepts  
 - Use my note-taking app to continue to create a solid knowledge bank, where I can refer to some key information in the future. 
 
@@ -20,7 +21,8 @@
 
 ### Pair Programming Project - Battle Game
 
-Completed **Battle** web application, a pokemon-inspired battle game. Players can sign-in and battle each other while switching turns. Repo [here](https://github.com/giorgigutsaevi/battle).
+#### [Battle Game Repo here](https://github.com/giorgigutsaevi/battle).
+Completed **Battle** web application, a pokemon-inspired battle game. Players can sign-in and battle each other while switching turns. 
 
 - Technologies Used: Ruby, Sinatra, Rspec, Capybara, HTML
 - Skills Learnt:
