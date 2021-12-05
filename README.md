@@ -5,7 +5,7 @@
 | ------------- |:-------------:| :----:|
 | [Week 1](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week1.md)    | Ruby | Boris Bikes and Airport |
 | [Week 2](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week2.md)   | Ruby      | Oystercard and Takeaway |
-| [Week 3](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week3.md)   | Ruby      | Battle App |
+| [Week 3](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week3.md)   | Ruby      | Battle App & Rock, Paper, Scissors |
 
 I will include examples of my work, challenges completed and the concepts I have learnt & developed whilst working towards the goals listed below each week.
 

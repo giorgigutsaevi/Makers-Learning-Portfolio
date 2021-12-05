@@ -34,7 +34,20 @@ Completed **Battle** web application, a pokemon-inspired battle game. Players ca
 
 ---
 
-### Weekend Challenge - 
+### Weekend Project - Rock, Paper, Scissors (RPS) 
+#### [Rock, Paper, Scissors Repo here](https://github.com/giorgigutsaevi/rps-challenge)
+Completed **RPS**, a classic Rock, Paper, Scissors game, where you play against a computer. 
+
+- Technologies Used: Ruby, RSpec, Sinatra, Capybara, CSS, HTML
+- Skills Learnt:
+	- Apply the MVC architecture when building a simple web app-based game
+	- How `.css` files can be linked to `.erb` files
+	- Implement an Automated Browser testing with Capybara and check what it displays to viewport
+	- Using Sinatra `sessions` to capture params between routing
+	- Apply OOD when building various objects for my Model
+	- Understand that when you visit a page you send a GET request, which retrieves any HTML with associated CSS styling that is defined as part of that view.
+
+---
 
 
 ### Auxiliary resources
