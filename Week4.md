@@ -75,7 +75,7 @@ Evidence: Built a daily diary app from scratch. Repo [here](https://github.com/g
 
 #### Wednesday - December 8
 
-**Goal:** Better understand the database & table structure and how tables are interconnected.
+**Goal:** Better understand the database & table structure and how tables are interconnected.\
 **Plan:** Attend a Database modelling workshop and do the practicals.
 
 ---
@@ -85,6 +85,7 @@ Evidence: Built a daily diary app from scratch. Repo [here](https://github.com/g
 Goal: Understand one-to-many database relationships, using SQL\
 Plan: Implement comments in Bookmark Manager (many comments to one bookmark)\
 Evidence: Added comments feature to my Bookmark Manager. [Repo here](https://github.com/giorgigutsaevi/bookmark_manager)
+
 ---
 
 #### Friday - December 10
