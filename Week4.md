@@ -20,7 +20,7 @@
 ### Bookmark Manager
 
 #### [Bookmark Manager Repo here](https://github.com/giorgigutsaevi/bookmark_manager)
-Completed a **Bookmark Manager** using PostgresSQL. User can save, edit and delete bookmarks. 
+Completed a **Bookmark Manager** using PostgresSQL. Users can save, edit and delete bookmarks. 
 
 - Technologies Used: Ruby, RSpec, Sinatra, Capybara, Postgres, CSS, HTML
 - Skills Learnt:
@@ -37,20 +37,20 @@ Completed a **Bookmark Manager** using PostgresSQL. User can save, edit and dele
 
 ### Weekend Project - Chitter App (Twitter clone)
 #### [Chitter App Repo here](https://github.com/giorgigutsaevi/chitter-challenge)
-Completed **Chitter App**,a simplified clone of Twitter
+Completed **Chitter App**, a simplified clone of Twitter
 
 - Technologies Used: Ruby, RSpec, Sinatra, Postgres, CSS, HTML, Travis CI
 - Skills Learnt:
-	- How to apply ORM and transform DB entries into objects
+	- How to apply ORM and transform DB entries into Ruby objects
 	- Creating users and with ORM in mind
-	- Implementing user sign up, sign in, authentication using BCrypt Library & signout
-
+	- Implementing user sign up, sign in, authentication using BCrypt library & signout
+	- Using a Sinatra Flash gem to integrate the 'notification' system. 
 
 ---
 
 ### Auxiliary resources
 
-- Built a simple Daily Diary App with Ruby & Sinatra. Users can write down their thoughts/ideas, and also edit & delete them. Repo [here](https://github.com/giorgigutsaevi/daily-diary-app)
+- Built a simple Daily Diary App with Ruby & Sinatra. Users can write down their thoughts/ideas, and also edit & delete them. Repo [here](https://github.com/giorgigutsaevi/daily-diary-app).
 
 
 ## Daily Goals 
@@ -67,9 +67,10 @@ Completed **Chitter App**,a simplified clone of Twitter
 **Goal:** Better understand the relationship between Ruby code and a database.\
 **Plan:** Work through the SQL Zoo tests on skills workshop.
 
-**Goal:** Combine my understanding of TDD, Capybara, Sinatra and Databases all together.\
-**Plan:** Complete the `daily_diary_app` practical on skills workshop.\
-**Evidence:** Built a daily diary app from scratch. Repo [here](https://github.com/giorgigutsaevi/daily-diary-app)
+Goal: Combine my understanding of TDD, Capybara, Sinatra and Databases all together.\
+Plan: Complete the `daily_diary_app` practical on skills workshop.\
+Evidence: Built a daily diary app from scratch. Repo [here](https://github.com/giorgigutsaevi/daily-diary-app)
+
 ---
 
 #### Wednesday - December 8
@@ -81,9 +82,9 @@ Completed **Chitter App**,a simplified clone of Twitter
 
 #### Thursday - December 9
 
-**Goal:** Understand one-to-many database relationships, using SQL\
-**Plan:** Implement comments in Bookmark Manager (many comments to one bookmark)\
-**Evidence:** Added comments feature to my Bookmark Manager. [Repo here](https://github.com/giorgigutsaevi/bookmark_manager)
+Goal: Understand one-to-many database relationships, using SQL\
+Plan: Implement comments in Bookmark Manager (many comments to one bookmark)\
+Evidence: Added comments feature to my Bookmark Manager. [Repo here](https://github.com/giorgigutsaevi/bookmark_manager)
 ---
 
 #### Friday - December 10
