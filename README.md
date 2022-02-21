@@ -8,6 +8,7 @@
 | [Week 3](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week3.md)   | Ruby      | Battle App & Rock, Paper, Scissors |
 | [Week 4](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week4.md)   | Ruby      | Bookmark Manager & Chitter App (Twitter clone)|
 | [Week 5](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week5.md)   | Ruby      | MakersBnB (Airbnb Clone) & Bowling Scoreboard Challenge |
+| [Week 6](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week6.md)   | JavaScript      | JS Notes App & News Summary App |
 
 I will include examples of my work, challenges completed and the concepts I have learnt & developed whilst working towards the goals listed below each week.
 
