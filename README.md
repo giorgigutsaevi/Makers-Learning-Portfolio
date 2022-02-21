@@ -10,6 +10,7 @@
 | [Week 5](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week5.md)   | Ruby      | MakersBnB (Airbnb Clone) & Bowling Scoreboard Challenge |
 | [Week 6](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week6.md)   | JavaScript      | JS Thermostat & Bowling Scorecard in JS |
 | [Week 7](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week7.md)   | JavaScript      | JS Notes App & News Summary App |
+| [Week 8 & 9](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio/blob/main/Week8&9.md)   | Ruby on Rails      | Acebook (FB clone) |
 
 I will include examples of my work, challenges completed and the concepts I have learnt & developed whilst working towards the goals listed below each week.
 
